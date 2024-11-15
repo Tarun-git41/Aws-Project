@@ -47,12 +47,6 @@
             <scope>system</scope>
             <systemPath>${basedir}/lib/open-meteo-api-1.0-SNAPSHOT.jar</systemPath>
         </dependency>
-        <dependency>
-            <groupId>org.epam.openapi</groupId>
-            <artifactId>open-meteo-api</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
 
         <!--Syndicate annotations-->
         <dependency>
